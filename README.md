@@ -6,7 +6,6 @@ requirement for emulator and python script
  
 ========
 * pip install pillow
-* pip install opencv
 * pip install ahk
 
 [![SFD](https://img.youtube.com/vi/OES8hyK4jNk/0.jpg)](https://www.youtube.com/watch?v=OES8hyK4jNk)
